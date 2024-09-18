@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +8,7 @@
 <body>
     <main>
         <a href="#main">Go To The Main content</a>
-        <h1>Top 5 Universites Of Pakistan</h1>
+        <h1>Top 5 Universities Of Pakistan</h1>
         <div>
             <h2>About Pakistan</h2>
             <p><strong>Pakistan is a dynamic country with a rich cultural heritage.</strong> Its education system is advancing, focusing on improving access and quality. With renowned universities and institutions, Pakistan is fostering future leaders in various fields, driving national growth and innovation.</p>
